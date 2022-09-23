@@ -1,9 +1,14 @@
-{
-"apple": "ябълка",
-"car": "кола, автомобил",
-"cat": "котка",
-"dog": "куче",
-"boy": "момче",
-"bus": "автобус",
-"small": "малък"
-}
+[
+"apple",
+"crocodile",
+"house",
+"kid",
+"children",
+"child",
+"wife",
+"men",
+"woman",
+"girl",
+"boy",
+"cat"
+]
